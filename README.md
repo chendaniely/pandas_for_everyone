@@ -1,2 +1,2 @@
-# pandas_for_everyone
+# Pandas for Everyone
 Repository to accompany "Pandas for Everyone" 
