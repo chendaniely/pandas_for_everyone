@@ -7,11 +7,18 @@ The easiest way to get everything you need to the tutorial is to install `anacon
 
 You can download and install it here: https://www.continuum.io/downloads
 
+To download just the data, see the [Data](https://github.com/chendaniely/pandas_for_everyone#data) section below.
+Otherwise you can choose to clone this repository, or click the "Clone or Download" link above and clikcing [Download Zip](https://github.com/chendaniely/pandas_for_everyone/archive/master.zip)
+
 ## Install seaborn for plotting
 
 `conda install seaborn`
 
 # Data
+
+You can choose to *just* download the datasets by using [Minhas Kamal's](https://minhaskamal.github.io/#/home) [DownGit](https://minhaskamal.github.io/DownGit/#/home) by clicking the link [here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chendaniely/pandas_for_everyone/tree/master/data)
+
+Ongoing list of data references:
 
 1. Gapminder: https://github.com/jennybc/gapminder/raw/master/inst/gapminder.tsv
 2. Survey: Comes from the [Software-Carpentry](http://software-carpentry.org/) SQL [lesson](http://swcarpentry.github.io/sql-novice-survey)
