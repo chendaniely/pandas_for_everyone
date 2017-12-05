@@ -23,3 +23,12 @@ Ongoing list of data references:
 1. Gapminder: https://github.com/jennybc/gapminder/raw/master/inst/gapminder.tsv
 2. Survey: Comes from the [Software-Carpentry](http://software-carpentry.org/) SQL [lesson](http://swcarpentry.github.io/sql-novice-survey)
 3. Ebola: www.github.com/cmrivers/ebola
+
+# Links to teaching sessions
+
+- https://github.com/chendaniely/2017-12-04-pandas_live
+- https://github.com/chendaniely/2017-10-26-python_crash_course
+- https://github.com/chendaniely/scipy-2017-tutorial-pandas
+    - https://github.com/chendaniely/scipy_2017_notes
+    - https://www.youtube.com/watch?v=oGzU688xCUs
+- https://github.com/chendaniely/2016-pydata-carolinas-pandas
