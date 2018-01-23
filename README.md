@@ -14,6 +14,37 @@ Otherwise you can choose to clone this repository, or click the "Clone or Downlo
 
 `conda install seaborn`
 
+## Install all the packages used in the book
+There is an error in the preface of the book for installing packages.
+I am leaving this section here in the README to have an updated list of packages and installation instructions
+
+### (Optional) Create a Virtual Environment
+
+You can choose to create a virtual envirionment for the packages used in the book,
+so it doesn't clash with other packages you plan to use later on.
+
+```bash
+# create a virtual environment named "book" using python 3.6
+conda create -n book python=3.6
+
+# activate the environment
+# so all installed packages will go in there and not mess up your base python environment
+source activate book
+```
+
+### Install the packages
+
+Whether you decited to create a virtual environment or not, you can install the packages with the below commands.
+If you did use virtual environments, remember to `source activate book` before you follow along with the book
+so the packages you installed can be loaded.
+
+```bash
+conda install pandas xlwt openpyxl seaborn numpy ipython jupyter statsmodels scikit-learn regex wget odo numba
+conda install -c conda-forge pweave # you don't really need this package, it was used to build and create the book
+conda install -c conda-forge feather-format
+pip install lifelines pandas-datareader
+```
+
 # Data
 
 You can choose to *just* download the datasets by using [Minhas Kamal's](https://minhaskamal.github.io/#/home) [DownGit](https://minhaskamal.github.io/DownGit/#/home) by clicking the link [here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chendaniely/pandas_for_everyone/tree/master/data)
