@@ -1,5 +1,22 @@
+<!--TOC using https://github.com/ekalinin/github-markdown-toc-->
+<!--ts-->
+   * [Pandas for Everyone](#pandas-for-everyone)
+   * [Setup](#setup)
+      * [Install seaborn for plotting](#install-seaborn-for-plotting)
+      * [Install all the packages used in the book](#install-all-the-packages-used-in-the-book)
+         * [(Optional) Create a Virtual Environment](#optional-create-a-virtual-environment)
+         * [Install the packages](#install-the-packages)
+   * [Teaching Slides](#teaching-slides)
+      * [No Powerpoint (.ppt/.odp)](#no-powerpoint-pptodp)
+   * [Data](#data)
+   * [Links to teaching sessions](#links-to-teaching-sessions)
+
+<!-- Added by: dchen, at: 2018-04-05T23:01-04:00 -->
+
+<!--te-->
+
 # Pandas for Everyone
-Repository to accompany "Pandas for Everyone" 
+Repository to accompany "Pandas for Everyone"
 
 # Setup
 
@@ -44,6 +61,35 @@ conda install -c conda-forge pweave # you don't really need this package, it was
 conda install -c conda-forge feather-format
 pip install lifelines pandas-datareader
 ```
+
+# Teaching Slides
+
+For those instructors who are using the teaching slide deck version of the book.
+Each chapter is split into it's own slide deck.
+There are multiple versions for each chapter.
+
+1. Jupyter notebook (ipynb)
+2. PDF
+3. HTML
+
+The slides are created using
+[Damian Avila's](http://www.damian.oquanta.info/)
+[RISE](https://damianavila.github.io/RISE/index.html)
+Jupyter/IPython Slideshow Extension.
+Thus, you can choose to install the RISE extension and live render and display the Jupyter notebooks (ipynb).
+Since each chapter is a Jupyter notebook at heart, the conversions to PDF and HTML are performed using
+
+```bash
+jupyter nbconvert --to slides your_talk.ipynb --post serve
+```
+
+More about useage ange converting to the PDF can be found on the RISE documentation page on
+[useage](https://damianavila.github.io/RISE/usage.html).
+
+## No Powerpoint (.ppt/.odp)
+
+RISE's back end uses reveal.js.
+Unfortunately there is [no way to go from a reveal.js presentation to powerpoint](https://github.com/hakimel/reveal.js/issues/1702)
 
 # Data
 
