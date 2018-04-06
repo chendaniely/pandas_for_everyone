@@ -16,7 +16,12 @@
 <!--te-->
 
 # Pandas for Everyone
-Repository to accompany "Pandas for Everyone"
+Repository to accompany "Pandas for Everyone".
+
+If you have gone through the book, an
+[Amazon review](https://www.amazon.com/Pandas-Everyone-Analysis-Addison-Wesley-Analytics/dp/0134546938/ref=sr_1_1?ie=UTF8&qid=1522984377&sr=8-1&keywords=pandas+for+everyone)
+would be much appreciated!
+My mom would too :)
 
 # Setup
 
