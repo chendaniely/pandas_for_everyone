@@ -110,9 +110,17 @@ Ongoing list of data references:
 
 # Links to teaching sessions
 
-- https://github.com/chendaniely/2017-12-04-pandas_live
-- https://github.com/chendaniely/2017-10-26-python_crash_course
-- https://github.com/chendaniely/scipy-2017-tutorial-pandas
-    - https://github.com/chendaniely/scipy_2017_notes
-    - https://www.youtube.com/watch?v=oGzU688xCUs
-- https://github.com/chendaniely/2016-pydata-carolinas-pandas
+I've taught out of the book while I was writing it.
+Here you can find the various tutorials and workshops I've taught (pre and post when the book was officially published).
+You can also checkout my [talks](http://chendaniely.github.io/talks/) page for other things not completely on Pandas.
+
+| Tables        | URL         | Video |
+| ------------- |-------------|-------|
+| Online Live Training | https://github.com/chendaniely/2017-12-04-pandas_live |
+| Whirlwind tour of Python | https://github.com/chendaniely/2017-10-26-python_crash_course |
+| SciPy 2017 Pandas Tutorial | https://github.com/chendaniely/scipy-2017-tutorial-pandas | https://www.youtube.com/watch?v=oGzU688xCUs |
+| PyData Carolinas 2016 Tutorial | https://github.com/chendaniely/2016-pydata-carolinas-pandas | https://www.youtube.com/watch?v=dye7rDktJ2E |
+
+Other random goodies:
+
+- Scipy 2017 list of tutorial/talks/links: https://github.com/chendaniely/scipy_2017_notes
