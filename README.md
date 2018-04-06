@@ -89,7 +89,9 @@ More about useage ange converting to the PDF can be found on the RISE documentat
 ## No Powerpoint (.ppt/.odp)
 
 RISE's back end uses reveal.js.
-Unfortunately there is [no way to go from a reveal.js presentation to powerpoint](https://github.com/hakimel/reveal.js/issues/1702)
+Unfortunately there is [no way to go from a reveal.js presentation to powerpoint](https://github.com/hakimel/reveal.js/issues/1702).
+Having said that,
+if there's a way we can jerry-rig something together using the the given capabilties of RISE and reveal.js please let me know.
 
 # Data
 
