@@ -10,6 +10,7 @@
       * [No Powerpoint (.ppt/.odp)](#no-powerpoint-pptodp)
    * [Data](#data)
    * [Links to teaching sessions](#links-to-teaching-sessions)
+   * [Other random goodies](#other-random-goodies)
 
 <!-- Added by: dchen, at: 2018-04-05T23:01-04:00 -->
 
@@ -121,7 +122,7 @@ You can also checkout my [talks](http://chendaniely.github.io/talks/) page for o
 | SciPy 2017 Pandas Tutorial | https://github.com/chendaniely/scipy-2017-tutorial-pandas | https://www.youtube.com/watch?v=oGzU688xCUs |
 | PyData Carolinas 2016 Tutorial | https://github.com/chendaniely/2016-pydata-carolinas-pandas | https://www.youtube.com/watch?v=dye7rDktJ2E |
 
-Other random goodies:
+# Other random goodies
 
 - Andreas C. Müller - Lecturer in Data Science Courses COMS W4995 Applied Machine Learning :
     - https://amueller.github.io/COMS4995-s18/
