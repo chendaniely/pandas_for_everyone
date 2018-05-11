@@ -123,5 +123,6 @@ You can also checkout my [talks](http://chendaniely.github.io/talks/) page for o
 
 Other random goodies:
 
+- Andreas C. Müller - Lecturer in Data Science Courses COMS W4995 Applied Machine Learning : http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/
 - Scipy 2017 list of tutorial/talks/links: https://github.com/chendaniely/scipy_2017_notes
 - Titus Brown's "Data Intensive Biology" Training page: http://dib-training.readthedocs.io/en/pub/
