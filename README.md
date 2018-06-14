@@ -117,7 +117,7 @@ You can also checkout my [talks](http://chendaniely.github.io/talks/) page for o
 
 | Tables        | URL         | Video |
 | ------------- |-------------|-------|
-| Online Live Training | https://github.com/chendaniely/2017-12-04-pandas_live |
+| Online Live Training | https://github.com/chendaniely/2017-12-04-pandas_live, https://github.com/chendaniely/2018-05-pandas_live, https://github.com/chendaniely/2018-06-pandas_live |
 | Whirlwind tour of Python | https://github.com/chendaniely/2017-10-26-python_crash_course |
 | SciPy 2017 Pandas Tutorial | https://github.com/chendaniely/scipy-2017-tutorial-pandas | https://www.youtube.com/watch?v=oGzU688xCUs |
 | PyData Carolinas 2016 Tutorial | https://github.com/chendaniely/2016-pydata-carolinas-pandas | https://www.youtube.com/watch?v=dye7rDktJ2E |
