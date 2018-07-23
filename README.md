@@ -124,6 +124,10 @@ You can also checkout my [talks](http://chendaniely.github.io/talks/) page for o
 
 # Other random goodies
 
+- pandas .head() to .tail() (Beginner)
+    - SciPy 2018 Tutorial
+    - Dillon Niederhut, Tom Augspurger, Joris Van den Bossche
+    - https://www.youtube.com/watch?v=lkLl_QKLgcA
 - Andreas C. Müller - Lecturer in Data Science Courses COMS W4995 Applied Machine Learning :
     - https://amueller.github.io/COMS4995-s18/
     - http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/
