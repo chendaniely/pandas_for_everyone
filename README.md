@@ -31,7 +31,7 @@ The easiest way to get everything you need to the tutorial is to install `anacon
 You can download and install it here: https://www.continuum.io/downloads
 
 To download just the data, see the [Data](https://github.com/chendaniely/pandas_for_everyone#data) section below.
-Otherwise you can choose to clone this repository, or click the "Clone or Download" link above and clikcing [Download Zip](https://github.com/chendaniely/pandas_for_everyone/archive/master.zip)
+Otherwise you can choose to clone this repository, or click the "Clone or Download" link above and clicking [Download Zip](https://github.com/chendaniely/pandas_for_everyone/archive/master.zip)
 
 ## Install seaborn for plotting
 
