@@ -105,7 +105,7 @@ You can choose to *just* download the datasets by using [Minhas Kamal's](https:/
 
 Ongoing list of data references:
 
-1. Gapminder: https://github.com/jennybc/gapminder/raw/master/inst/gapminder.tsv
+1. Gapminder: https://github.com/jennybc/gapminder/
 2. Survey: Comes from the [Software-Carpentry](http://software-carpentry.org/) SQL [lesson](http://swcarpentry.github.io/sql-novice-survey)
 3. Ebola: www.github.com/cmrivers/ebola
 
